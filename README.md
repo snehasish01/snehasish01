@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://decamint.ai/"><img src="https://img.shields.io/badge/Decamint-AI--native%20hiring-2f81f7?style=for-the-badge&logoColor=white" alt="Decamint" /></a>
-  <a href="https://osf.io/5symn"><img src="https://img.shields.io/badge/OSF-ACD%20research-1f6feb?style=for-the-badge&logo=osf&logoColor=white" alt="OSF preprint" /></a>
-  <a href="https://doi.org/10.5281/zenodo.21607993"><img src="https://img.shields.io/badge/Zenodo-published%20DOI-0b3d91?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo DOI" /></a>
-  <a href="https://sphur.substack.com/"><img src="https://img.shields.io/badge/Substack-Briefly%20Aware-1f6feb?style=for-the-badge&logo=substack&logoColor=white" alt="Briefly Aware" /></a>
+  <a href="https://decamint.ai/"><img src="https://img.shields.io/badge/Decamint-AI--native%20hiring-6D28D9?style=for-the-badge&logoColor=white" alt="Decamint" /></a>
+  <a href="https://osf.io/5symn"><img src="https://img.shields.io/badge/OSF-ACD%20research-159957?style=for-the-badge&logo=osf&logoColor=white" alt="OSF preprint" /></a>
+  <a href="https://doi.org/10.5281/zenodo.21607993"><img src="https://img.shields.io/badge/Zenodo-published%20DOI-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo DOI" /></a>
+  <a href="https://sphur.substack.com/"><img src="https://img.shields.io/badge/Substack-Briefly%20Aware-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Briefly Aware" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-John%20Deere-2b3137?style=flat-square&labelColor=2b3137&color=4C9AFF" alt="Data Scientist @ John Deere" />
-  <img src="https://img.shields.io/badge/AI%20reliability%20%26%20evaluation-2b3137?style=flat-square" alt="AI reliability & evaluation" />
-  <img src="https://img.shields.io/badge/cognitive%20%26%20decision%20modeling-2b3137?style=flat-square" alt="cognitive & decision modeling" />
-  <img src="https://img.shields.io/badge/human%E2%80%93AI%20interaction-2b3137?style=flat-square" alt="human-AI interaction" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-John%20Deere-367C2B?style=flat-square&labelColor=2b3137" alt="Data Scientist @ John Deere" />
+  <img src="https://img.shields.io/badge/AI%20reliability%20%26%20evaluation-B45309?style=flat-square" alt="AI reliability & evaluation" />
+  <img src="https://img.shields.io/badge/cognitive%20%26%20decision%20modeling-6D28D9?style=flat-square" alt="cognitive & decision modeling" />
+  <img src="https://img.shields.io/badge/human%E2%80%93AI%20interaction-0D9488?style=flat-square" alt="human-AI interaction" />
 </p>
 
 ---
@@ -102,25 +102,25 @@ a Substack on cognitive science, AI, and self-knowledge for a general audience.
 ## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-2f81f7?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-1f6feb?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/JavaScript-1f6feb?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-1f6feb?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/LaTeX-1f6feb?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/NumPy-24324a?style=flat-square&logo=numpy&logoColor=8ab4f8" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-24324a?style=flat-square&logo=scipy&logoColor=8ab4f8" alt="SciPy" />
-  <img src="https://img.shields.io/badge/pandas-24324a?style=flat-square&logo=pandas&logoColor=8ab4f8" alt="pandas" />
-  <img src="https://img.shields.io/badge/statsmodels-24324a?style=flat-square&logoColor=8ab4f8" alt="statsmodels" />
-  <img src="https://img.shields.io/badge/PyMC-24324a?style=flat-square&logo=python&logoColor=8ab4f8" alt="PyMC" />
-  <img src="https://img.shields.io/badge/scikit--learn-24324a?style=flat-square&logo=scikitlearn&logoColor=8ab4f8" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-24324a?style=flat-square&logo=pytorch&logoColor=8ab4f8" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Pydantic-24324a?style=flat-square&logo=pydantic&logoColor=8ab4f8" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/PyO3-24324a?style=flat-square&logo=rust&logoColor=8ab4f8" alt="PyO3" />
-  <img src="https://img.shields.io/badge/Three.js-24324a?style=flat-square&logo=threedotjs&logoColor=8ab4f8" alt="Three.js" />
-  <img src="https://img.shields.io/badge/WebXR-24324a?style=flat-square&logo=webxr&logoColor=8ab4f8" alt="WebXR" />
-  <img src="https://img.shields.io/badge/pytest-24324a?style=flat-square&logo=pytest&logoColor=8ab4f8" alt="pytest" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/statsmodels-3B5FA8?style=flat-square&logoColor=white" alt="statsmodels" />
+  <img src="https://img.shields.io/badge/PyMC-2A2D7C?style=flat-square&logo=python&logoColor=FFD43B" alt="PyMC" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/PyO3-000000?style=flat-square&logo=rust&logoColor=DEA584" alt="PyO3" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebXR-EF6C4D?style=flat-square&logo=webgl&logoColor=white" alt="WebXR" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
 </p>
 
 <br>
