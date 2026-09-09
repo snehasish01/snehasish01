@@ -91,6 +91,7 @@ a Substack on cognitive science, AI, and self-knowledge for a general audience.
 |---|---|---|
 | **Project Bathtub — Phase 0 (FMEA)** | Reliability-engineering failure-mode taxonomy for AI coding agents; 80 modes across 10 categories, ranked by Risk Priority Number | [Zenodo · 10.5281/zenodo.21607993](https://doi.org/10.5281/zenodo.21607993) |
 | **Anticipatory Cognitive Dissonance** | Preprint: interrupting decision bias as it forms, in anticipatory AI tutors | [OSF · osf.io/5symn](https://osf.io/5symn) |
+| **Project ASTRA** | WebXR study operationalizing ACD — detects forming decision bias from behavioral signal and interrupts with an LLM-generated question before commitment | [OSF · osf.io/a79qp](https://osf.io/a79qp/overview) |
 | **Decamint** | AI-native hiring-assessment platform | [decamint.ai](https://decamint.ai/) |
 | **Briefly Aware** | Essays on cognitive science, AI, and self-knowledge | [sphur.substack.com](https://sphur.substack.com/) |
 
