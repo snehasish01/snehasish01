@@ -2,13 +2,11 @@
      role="img" aria-label="Section divider.">
   <defs>
     <linearGradient id="r" gradientUnits="userSpaceOnUse" x1="14" y1="0" x2="1180" y2="0">
-      <stop offset="0"    stop-color="#2f81f7" stop-opacity="0.85"/>
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.85"/>
       <stop offset="0.55" stop-color="#2f81f7" stop-opacity="0.22"/>
-      <stop offset="1"    stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect x="14" y="7.2" width="1186" height="1.6" fill="url(#r)"/>
-  <rect x="0" y="4" width="8" height="8" rx="1.5" fill="#4C9AFF" opacity="1">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.35;1" begin="0s" dur="0.7s" fill="freeze"/>
-  </rect>
+  <rect x="0" y="3.5" width="9" height="9" rx="2" fill="#4C9AFF"/>
 </svg>
