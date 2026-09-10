@@ -30,7 +30,7 @@
 
 - Data scientist at John Deere.
 - Cofounder of Decamint, an AI native hiring and assessment platform.
-- Research in progress: moving Anticipatory Cognitive Dissonance from preprint to an instrumented study, and Project Bathtub from a failure mode taxonomy toward measured hazard rates.
+- Independent Research: cognitive science, human-computer interaction, and human AI symbiosis, focused on how people and AI systems form beliefs, judge their own competence, and decide under uncertainty.
 
 <p align="center">
   <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
