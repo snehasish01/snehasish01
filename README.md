@@ -28,7 +28,7 @@
 
 ## Now
 
-- Data scientist at John Deere since July 2023.
+- Data scientist at John Deere.
 - Cofounder of Decamint, an AI native hiring and assessment platform.
 - Research in progress: moving Anticipatory Cognitive Dissonance from preprint to an instrumented study, and Project Bathtub from a failure mode taxonomy toward measured hazard rates.
 
