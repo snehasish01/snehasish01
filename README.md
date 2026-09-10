@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=2">
-    <img width="860" alt="Snehasish Satpathy. Decision modeling and AI reliability. Drift diffusion sample paths accumulate between two decision boundaries toward a decision point." src="assets/header-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=3">
+    <img width="860" alt="Snehasish Satpathy. Decision modeling and AI reliability. Drift diffusion sample paths accumulate between two decision boundaries toward a decision point." src="assets/header-light.svg?v=3">
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
 ## Now
@@ -35,7 +35,7 @@ _Updated September 2026._
 - Research in progress: moving Anticipatory Cognitive Dissonance from preprint to an instrumented study, and Project Bathtub from a failure mode taxonomy toward measured hazard rates.
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
 ## Research
@@ -44,10 +44,10 @@ My work asks one question in two settings: how do reasoners, whether human or ar
 
 Model the failure. Before I trust an LLM agent, a benchmark, or a decision procedure, I want its failure mode taxonomy, its hazard rate across the length of a run, and a measured number in place of an impression. Reliability engineering has spent decades formalizing this for aerospace and manufacturing, and most of the apparatus carries over to autonomous software.
 
-Simulate before you trust. A statistical claim is worth making only once the procedure behind it has been run against a known ground truth often enough to show it meets its guarantees. A confidence interval that misses its stated coverage is wrong, whatever the quality of the derivation that produced it.
+Simulate before you trust. A statistical claim is worth making only after the procedure behind it has been run against a known ground truth often enough to show it meets its guarantees. A confidence interval that misses its stated coverage is wrong, whatever the derivation behind it.
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
 ## Selected work
@@ -62,7 +62,7 @@ Simulate before you trust. A statistical claim is worth making only once the pro
 | Briefly Aware | Essays on cognitive science, AI, and self knowledge. | [Substack](https://sphur.substack.com/) |
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
 ## What I work on
@@ -92,25 +92,30 @@ I publish preprints and datasets openly, on OSF and Zenodo. Briefly Aware is my 
 Link: [Briefly Aware](https://sphur.substack.com/)
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
 ## Toolkit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg?v=2">
-    <img width="860" alt="Toolkit by area. Languages: Python, Rust, SQL, JavaScript. Statistical computing: NumPy, SciPy, pandas, statsmodels, PyMC. ML and systems: PyTorch, scikit-learn, Pydantic, PyO3, Three.js, WebXR. Research infrastructure: Git, pytest, Parquet, LaTeX, Quarto." src="assets/toolkit-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg?v=3">
+    <img width="860" alt="Toolkit by area. Languages: Python, Rust, SQL, JavaScript. Statistical computing: NumPy, SciPy, pandas, statsmodels, PyMC. ML and systems: PyTorch, scikit-learn, Pydantic, PyO3, Three.js, WebXR. Research infrastructure: Git, pytest, Parquet, LaTeX, Quarto." src="assets/toolkit-light.svg?v=3">
   </picture>
 </p>
 
 What I reach for first: Python with NumPy and SciPy for analysis, Rust behind PyO3 when a simulation has to be fast, PyMC when the model is Bayesian, pytest and Parquet to keep results reproducible.
 
 <p align="center">
-  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=2">
+  <img width="860" alt="Section divider marking a new section" src="assets/rule.svg?v=3">
 </p>
 
-<p align="center">
-  <sub>Reach me at snehasish.satpathy01@gmail.com</sub>
-</p>
+## Contact
+
+- **Email:** snehasish.satpathy01@gmail.com
+- **LinkedIn:** [linkedin.com/in/snehasish-satpathy](https://www.linkedin.com/in/snehasish-satpathy/)
+- **Substack:** [Briefly Aware](https://sphur.substack.com/)
+- **Decamint:** [decamint.ai](https://decamint.ai/)
+- **ORCID:** [0009-0009-4799-2020](https://orcid.org/0009-0009-4799-2020)
+- **Preprints and data:** [OSF](https://osf.io/5symn)
